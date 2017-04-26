@@ -21,7 +21,7 @@ data = {
 	"*(tu es occupé|es tu occupé)*": ["dit_non je ne fais rien et toi"]
 	}
 data = {
-	"*(raconte moi une blague|dis moi une blague|raconte moi une histoire drole|tu connais une histoire drole)*": ["dit_que dis un papier qui tombe dans leau, je nai pas pieds","cest lhistoire dun x carré qui rentre dans une foret et qui en ressort en x, que sest il passé, il sest pris une racine"]
+	"*(raconte moi une blague|dis moi une blague|raconte moi une histoire drole|tu connais une histoire drole)*": ["dit_que dis un papier qui tombe dans leau, je nai pas pieds","dit_cest lhistoire dun x carré qui rentre dans une foret et qui en ressort en x, que sest il passé, il sest pris une racine", "dit_il y a dix types de personnes dans le monde, ceux qui parlent le binaire, ceux qui ne le parlent pas et ceux qui ne sattendaient pas a ce que cette blague soit en base trois"]
 	}
 	
 default = ["dit_42", "dit_heu... je ne comprends pas"]
