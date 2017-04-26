@@ -8,6 +8,8 @@ La valeur est une liste des actions dispos (dit_blabla, joue_fichier etc...)
 data = {
 	"*(coucou|bonjour|salut)*": ["dit_salut", "dit_bonjour", "dit_coucou"]
 	
+	"*(comment tu tappelles|comment tappelles tu|quel est ton nom)*": ["dit_mon nom est milo", "dit_je m'appelle milo"]
+	
 	"*(ça va|comment ça va|comment vas tu|comment tu vas)*":  ["dit_ça va bien et toi", "dit_ca va merci et toi"]
 	
 	"*(que fais tu|tu fais quoi)*": ["dit_je réflechis au sens de la vie et toi", "dit_je pense au sens de la vie, ca marrive de temps en temps, pas toi", "dit_rien, je mennuie"]
