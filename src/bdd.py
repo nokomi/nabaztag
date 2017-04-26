@@ -2,7 +2,7 @@
 La base de données des réponses
 
 La clef du dictionnaire est une expression régulière
-La valeur est une liste des actions dispos (dit_blabla, chante_fichier etc...)
+La valeur est une liste des actions dispos (dit_blabla, joue_fichier etc...)
 """
 
 data = {
